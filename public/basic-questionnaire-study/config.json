@@ -66,8 +66,8 @@
         },
         "dotplot-low": {
             "type": "image",
-            "path": "public/basic-questionnaire-study/assets/3fd6d4f2-f992-4797-b32d-189d63cfb3be.jpeg",
-            "instruction": "Will you issue blankets to the alpacas?",
+            "path": "public/basic-questionnaire-study/assets/India.PNG",
+            "instruction": "Is this India?",
             "style": {
             "width": "800px"
             },
