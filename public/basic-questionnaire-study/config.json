@@ -63,14 +63,36 @@
                     "numItems": 5
                 }
             ]
-        }
+        },
+        "dotplot-low": {
+            "type": "image",
+            "path": "public/basic-questionnaire-study/assets/3fd6d4f2-f992-4797-b32d-189d63cfb3be.jpeg",
+            "instruction": "Will you issue blankets to the alpacas?",
+            "style": {
+            "width": "800px"
+            },
+            "nextButtonLocation": "sidebar",
+            "response": [
+            {
+                "id": "demo-image/assets-response",
+                "prompt": "Answer:",
+                "location": "sidebar",
+                "type": "radio",
+                "options": [
+                "Yes",
+                "No"
+                ]
+            }
+        ]}
+        
     },
     "sequence": {
         "order": "fixed",
         "components": [
             "introduction",
             "first-question-set",
-            "second-question-set"
+            "second-question-set",
+            "dotplot-low"
         ]
     }
 }
