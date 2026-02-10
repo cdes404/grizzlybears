@@ -36,47 +36,56 @@
             "response": [
                 {
                     "id": "q-slider",
-                    "prompt": "How do the population densities of Delhi and Bihar compare?",
+                    "prompt": "How much more dense is the population in Delhi compared to Bihar?",
                     "location": "sidebar",
                     "type": "slider",
                     "options": [
                         {
-                            "label": "Bad",
+                            "label": "0% - There is no difference",
                             "value": 0
                         },
                         {
-                            "label": "OK",
+                            "label": "50%",
                             "value": 50
                         },
                         {
-                            "label": "Good",
+                            "label": "100% - It is twice as dense",
                             "value": 100
                         }
                     ]
                 }
             ]
         },
-        "dotplot-low": {
+        "state-state": {
             "type": "image",
             "path": "public/basic-questionnaire-study/assets/India.PNG",
-            "instruction": "Is this India?",
             "style": {
                 "width": "800px"
             },
             "nextButtonLocation": "sidebar",
             "response": [
-            {
-                "id": "demo-image/assets-response",
-                "prompt": "Answer:",
-                "location": "sidebar",
-                "type": "radio",
-                "options": [
-                "Yes",
-                "No"
-                ]
-            }
-        ]}
-        
+                {
+                    "id": "q-slider",
+                    "prompt": "How much more dense is the population in state compared to state?",
+                    "location": "sidebar",
+                    "type": "slider",
+                    "options": [
+                        {
+                            "label": "0% - There is no difference",
+                            "value": 0
+                        },
+                        {
+                            "label": "50%",
+                            "value": 50
+                        },
+                        {
+                            "label": "100% - It is twice as dense",
+                            "value": 100
+                        }
+                    ]
+                }
+            ]
+        }
     },
     "sequence": {
         "order": "fixed",
@@ -85,7 +94,7 @@
             "order": "random",
             "components": [
                 "delhi-bihar",
-                "dotplot-low"
+                "state-state"
                 ]
             }
         ]
