@@ -29,9 +29,8 @@
         "delhi-bihar": {
             "type": "image",
             "path": "public/basic-questionnaire-study/assets/India.PNG",
-            "instruction": "Is this India?",
             "style": {
-            "width": "800px"
+                "width": "800px"
             },
             "nextButtonLocation": "sidebar",
             "response": [
@@ -62,7 +61,7 @@
             "path": "public/basic-questionnaire-study/assets/India.PNG",
             "instruction": "Is this India?",
             "style": {
-            "width": "800px"
+                "width": "800px"
             },
             "nextButtonLocation": "sidebar",
             "response": [
@@ -85,8 +84,7 @@
             "introduction", {
             "order": "random",
             "components": [
-                "deli-bihar",
-                "second-question-set",
+                "delhi-bihar",
                 "dotplot-low"
                 ]
             }
