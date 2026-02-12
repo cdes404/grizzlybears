@@ -1,0 +1,248 @@
+{
+  "$schema": "https://raw.githubusercontent.com/revisit-studies/study/main/src/parser/StudyConfigSchema.json",
+  "studyMetadata": {
+    "title": "Color Scales and Population Density: A Basic Questionnaire Study",
+    "version": "pilot",
+    "authors": ["The reVISit Team, Claire Desrosiers, and Isha Sinha"],
+    "date": "2026-02-09",
+    "description": "A simple questionnaire study",
+    "organizations": ["WPI"]
+  },
+  "uiConfig": {
+    "contactEmail": "cmd03063@gmail.com",
+    "helpTextPath": "basic-questionnaire-study/assets/help.md",
+    "logoPath": "revisitAssets/revisitLogoSquare.svg",
+    "withProgressBar": true,
+    "autoDownloadStudy": false,
+    "withSidebar": true
+  },
+  "components": {
+    "introduction": {
+      "type": "markdown",
+      "path": "basic-questionnaire-study/assets/introduction.md",
+      "response": []
+    },
+
+    "trial-01-delhi-bihar": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-01",
+          "prompt": "How much more dense is the population in Delhi compared to Bihar?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-02-uttarpradesh-westbengal": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-02",
+          "prompt": "How much more dense is the population in Uttar Pradesh compared to West Bengal?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-03-maharashtra-gujarat": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-03",
+          "prompt": "How much more dense is the population in Maharashtra compared to Gujarat?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-04-tamilnadu-karnataka": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-04",
+          "prompt": "How much more dense is the population in Tamil Nadu compared to Karnataka?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-05-kerala-andhrapradesh": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-05",
+          "prompt": "How much more dense is the population in Kerala compared to Andhra Pradesh?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-06-rajasthan-haryana": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-06",
+          "prompt": "How much more dense is the population in Rajasthan compared to Haryana?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-07-assam-odisha": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-07",
+          "prompt": "How much more dense is the population in Assam compared to Odisha?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-08-punjab-jharkhand": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-08",
+          "prompt": "How much more dense is the population in Punjab compared to Jharkhand?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-09-telangana-chhattisgarh": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-09",
+          "prompt": "How much more dense is the population in Telangana compared to Chhattisgarh?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    },
+
+    "trial-10-uttarakhand-himachalpradesh": {
+      "type": "image",
+      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "style": { "width": "800px" },
+      "nextButtonLocation": "sidebar",
+      "response": [
+        {
+          "id": "q-density-10",
+          "prompt": "How much more dense is the population in Uttarakhand compared to Himachal Pradesh?",
+          "location": "sidebar",
+          "type": "slider",
+          "options": [
+            { "label": "0% - There is no difference", "value": 0 },
+            { "label": "50%", "value": 50 },
+            { "label": "100% - It is twice as dense", "value": 100 }
+          ]
+        }
+      ]
+    }
+  },
+
+  "sequence": {
+    "order": "fixed",
+    "components": [
+      "introduction",
+      {
+        "order": "random",
+        "components": [
+          "trial-01-delhi-bihar",
+          "trial-02-uttarpradesh-westbengal",
+          "trial-03-maharashtra-gujarat",
+          "trial-04-tamilnadu-karnataka",
+          "trial-05-kerala-andhrapradesh",
+          "trial-06-rajasthan-haryana",
+          "trial-07-assam-odisha",
+          "trial-08-punjab-jharkhand",
+          "trial-09-telangana-chhattisgarh",
+          "trial-10-uttarakhand-himachalpradesh"
+        ]
+      }
+    ]
+  }
+}
