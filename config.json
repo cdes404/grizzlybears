@@ -183,7 +183,7 @@
       ]
     },
 
-    "trial-09-telangana-chhattisgarh": {
+    "trial-09-madhyapradesh-chhattisgarh": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/India.PNG",
       "style": { "width": "800px" },
@@ -191,7 +191,7 @@
       "response": [
         {
           "id": "q-density-09",
-          "prompt": "How much more dense is the population in Telangana compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Madya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -246,3 +246,4 @@
     ]
   }
 }
+
