@@ -25,7 +25,7 @@
 
     "Delhi-Bihar-R": {
       "type": "image",
-      "path": "assets/Maps/India-Saturation-trial-01.png",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-01.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -45,7 +45,7 @@
 
     "Delhi-Bihar-G": {
       "type": "image",
-      "path": "assets/Maps/IndiaGray-trial-01.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-01.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -65,7 +65,7 @@
 
     "Delhi-Bihar-RGB": {
       "type": "image",
-      "path": "assets/Maps/IndiaRBG-trial-01.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-01.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
