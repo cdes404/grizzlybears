@@ -25,7 +25,7 @@
 
     "Delhi-Bihar-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-01.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -45,7 +45,7 @@
 
     "Delhi-Bihar-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-01.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -65,7 +65,7 @@
 
     "Delhi-Bihar-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-01.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -85,7 +85,7 @@
 
     "Uttarpradesh-Westbengal-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-02.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -105,7 +105,7 @@
 
     "Uttarpradesh-Westbengal-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-02.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -125,7 +125,7 @@
 
     "Uttarpradesh-Westbengal-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-02.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -145,7 +145,7 @@
 
     "Maharashtra-Gujarat-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-03.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -165,7 +165,7 @@
 
     "Maharashtra-Gujarat-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-03.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -185,7 +185,7 @@
 
     "Maharashtra-Gujarat-RBG": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-03.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -205,7 +205,7 @@
 
     "Tamilnadu-Karnataka-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-04.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -225,7 +225,7 @@
 
     "Tamilnadu-Karnataka-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-04.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -245,7 +245,7 @@
 
     "Tamilnadu-Karnataka-RBG": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-04.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -265,7 +265,7 @@
 
     "Kerala-Andhrapradesh-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-05.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -285,7 +285,7 @@
 
     "Kerala-Andhrapradesh-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-05.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -305,7 +305,7 @@
 
     "Kerala-Andhrapradesh-RBG": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-05.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -325,7 +325,7 @@
 
     "Rajasthan-Haryana-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-06.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -345,7 +345,7 @@
 
     "Rajasthan-Haryana-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-06.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -365,7 +365,7 @@
 
     "Rajasthan-Haryana-RBG": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-06.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -385,7 +385,7 @@
 
     "Assam-Odisha-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-07.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -405,7 +405,7 @@
 
     "Assam-Odisha-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-07.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -425,7 +425,7 @@
 
     "Assam-Odisha-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-07.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -445,7 +445,7 @@
 
     "Punjab-Harkhand-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-08.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -465,7 +465,7 @@
 
     "Punjab-Harkhand-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-08.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -485,7 +485,7 @@
 
     "Punjab-Harkhand-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-08.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -503,15 +503,15 @@
       ]
     },
 
-    "Telangana-Chhattisgarh-R": {
+    "Madhyapradesh-Chhattisgarh-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-09.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
         {
           "id": "q-density-09",
-          "prompt": "How much more dense is the population in Telangana compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -523,15 +523,15 @@
       ]
     },
 
-    "Telangana-Chhattisgarh-G": {
+    "Madhyapradesh-Chhattisgarh-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-09.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
         {
           "id": "q-density-09",
-          "prompt": "How much more dense is the population in Telangana compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -543,15 +543,15 @@
       ]
     },
 
-    "Telangana-Chhattisgarh-RBG": {
+    "Madhyapradesh-Chhattisgarh-RBG": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-09.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
         {
           "id": "q-density-09",
-          "prompt": "How much more dense is the population in Telangana compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -565,7 +565,7 @@
 
     "Uttarakhand-Himachalpradesh-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-10.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -585,7 +585,7 @@
 
     "Uttarakhand-Himachalpradesh-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-10.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -605,7 +605,7 @@
 
     "Uttarakhand-Himachalpradesh-RBG": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/India.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-10.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
