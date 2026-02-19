@@ -65,7 +65,7 @@
 
     "Delhi-Bihar-RGB": {
       "type": "image",
-      "path": "/grizzlybears/basic-questionnaire-study/assets/Maps/IndiaGray-trial-02.PNG",
+      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-02.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
