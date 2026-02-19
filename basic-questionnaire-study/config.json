@@ -183,7 +183,7 @@
       ]
     },
 
-    "Maharashtra-Gujarat-RBG": {
+    "Maharashtra-Gujarat-RGB": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-03.PNG",
       "style": { "width": "800px" },
@@ -243,7 +243,7 @@
       ]
     },
 
-    "Tamilnadu-Karnataka-RBG": {
+    "Tamilnadu-Karnataka-RGB": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-04.PNG",
       "style": { "width": "800px" },
@@ -303,7 +303,7 @@
       ]
     },
 
-    "Kerala-Andhrapradesh-RBG": {
+    "Kerala-Andhrapradesh-RGB": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-05.PNG",
       "style": { "width": "800px" },
@@ -363,7 +363,7 @@
       ]
     },
 
-    "Rajasthan-Haryana-RBG": {
+    "Rajasthan-Haryana-RGB": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-06.PNG",
       "style": { "width": "800px" },
@@ -443,7 +443,7 @@
       ]
     },
 
-    "Punjab-Harkhand-R": {
+    "Punjab-Jharkhand-R": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-08.png",
       "style": { "width": "800px" },
@@ -463,7 +463,7 @@
       ]
     },
 
-    "Punjab-Harkhand-G": {
+    "Punjab-Jharkhand-G": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-08.PNG",
       "style": { "width": "800px" },
@@ -483,7 +483,7 @@
       ]
     },
 
-    "Punjab-Harkhand-RGB": {
+    "Punjab-Jharkhand-RGB": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-08.PNG",
       "style": { "width": "800px" },
@@ -543,7 +543,7 @@
       ]
     },
 
-    "Madhyapradesh-Chhattisgarh-RBG": {
+    "Madhyapradesh-Chhattisgarh-RGB": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-09.PNG",
       "style": { "width": "800px" },
@@ -603,7 +603,7 @@
       ]
     },
 
-    "Uttarakhand-Himachalpradesh-RBG": {
+    "Uttarakhand-Himachalpradesh-RGB": {
       "type": "image",
       "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-10.PNG",
       "style": { "width": "800px" },
@@ -634,70 +634,88 @@
         "components": [
           "Delhi-Bihar-R",
           "Delhi-Bihar-G",
-          "Delhi-Bihar-RBG"
-        ],
+          "Delhi-Bihar-RGB"
+        ]
+      },
+      {
         "order": "random",
         "numSamples": 1,
         "components": [
           "Uttarakhand-Himachalpradesh-R",
           "Uttarakhand-Himachalpradesh-G",
-          "Uttarakhand-Himachalpradesh-RBG"
-        ],
+          "Uttarakhand-Himachalpradesh-RGB"
+        ]
+      },
+      {
         "order": "random",
         "numSamples": 1,
         "components": [
-          "Uttar Pradesh-West Bengal-R",
-          "Uttar Pradesh-West Bengal-G",
-          "Uttar Pradesh-West Bengal-RBG"
-        ],
+          "Uttarpradesh-Westbengal-R",
+          "Uttarpradesh-Westbengal-G",
+          "Uttarpradesh-Westbengal-RGB"
+        ]
+      },
+       {
         "order": "random",
         "numSamples": 1,
         "components": [
           "Maharashtra-Gujarat-R",
           "Maharashtra-Gujarat-G",
-          "Maharashtra-Gujarat-RBG"
-        ],
+          "Maharashtra-Gujarat-RGB"
+        ]
+      },
+       {
         "order": "random",
         "numSamples": 1,
         "components": [
           "Tamilnadu-Karnataka-R",
           "Tamilnadu-Karnataka-G",
-          "Tamilnadu-Karnataka-RBG"
-        ],
+          "Tamilnadu-Karnataka-RGB"
+        ]
+      },
+       {
         "order": "random",
         "numSamples": 1,
         "components": [
-          "Kerala-Andhra Pradesh-R",
-          "Kerala-Andhra Pradesh-G",
-          "Kerala-Andhra Pradesh-RBG"
-        ],
+          "Kerala-Andhrapradesh-R",
+          "Kerala-Andhrapradesh-G",
+          "Kerala-Andhrapradesh-RGB"
+        ]
+      },
+       {
         "order": "random",
         "numSamples": 1,
         "components": [
           "Rajasthan-Haryana-R",
           "Rajasthan-Haryana-G",
-          "Rajasthan-Haryana-RBG"
-        ],
+          "Rajasthan-Haryana-RGB"
+        ]
+      },
+      {
         "order": "random",
         "numSamples": 1,
         "components": [
           "Assam-Odisha-R",
           "Assam-Odisha-G",
-          "Assam-Odisha-RBG"
-        ],
+          "Assam-Odisha-RGB"
+        ]
+      },
+       {
         "order": "random",
         "numSamples": 1,
         "components": [
           "Punjab-Jharkhand-R",
           "Punjab-Jharkhand-G",
-          "Punjab-Jharkhand-RBG"
-        ],
+          "Punjab-Jharkhand-RGB"
+        ]
+      },
+      {
         "order": "random",
         "numSamples": 1,
         "components": [
-          "Telangana-Chhattisgarh-R",
-          "Telangana-Chhattisgarh-G",
-          "Telangana-Chhattisgarh-RBG"
+          "Madhyapradesh-Chhattisgarh-R",
+          "Madhyapradesh-Chhattisgarh-G",
+          "Madhyapradesh-Chhattisgarh-RGB"
         ]
       }
     ]
