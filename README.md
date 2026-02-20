@@ -1,27 +1,23 @@
-# reVISit study – Interactive, Web-Based User Studies.  
+# reVISit study – Color Scales and Population Density of India: A Basic Questionnaire Study.  
 
-Create your own interactive, web-based data visualization user studies by cloning/forking and editing configuration files and adding stimuli in the `public` folder. 
+# Deployed Link: https://cdes404.github.io/grizzlybears/
 
-reVISit introduces reVISit.spec a DSL for specifying study setups (consent forms, training, trials, etc) for interactive web based studies. You describe your experimental setup in reVISit.spec, add your stimuli as images, forms, html pages, or React components, build and deploy – and you're ready to run your study. For tutorials and documentation, see the [reVISit website](https://revisit.dev). 
+## Purpose of the Study
 
-## Build Instructions
+This study examines how accurately users can estimate differences in population density between Indian states using different color scale legends. Participants are asked to compare two states at a time and estimate how much more densely populated one state is than the other by marking their answer as a percentage. The study consists of ten comparison trials.
 
-To run this demo experiment locally, you will need to install node on your computer. 
+In each trial, the color scale used on the map is randomized and may be one of three types: a red monochromatic scale, a full RGB color scale, or a grayscale. By comparing estimation accuracy across these conditions, the study aims to determine which color scale best supports users in interpreting relative population density. To reduce bias, participants are instructed not to rely on prior knowledge of Indian states or their real population densities, as the data used in this study has been intentionally modified.
 
-* Clone `https://github.com/revisit-studies/study`
-* Run `yarn install`. If you don't have yarn installed, run `npm i -g yarn`. 
-* To run locally, run `yarn serve`.
-* Go to [http://localhost:8080](http://localhost:8080) to view it in your browser. The page will reload when you make changes. 
 
-## Release Instructions
+## Study Notes
 
-Releasing reVISit.dev happens automatically when a PR is merged into the `main` branch. The name of the pull request should be the title of the release, e.g. `v1.0.0`. Releasing creates a tag with the same name as the PR, but the official GitGub release should be created manually. The `main` branch is protected and requires two reviews before merging.
+Map Creation: The maps were generated using three separate JavaScript files, each implementing a different color scale. These maps were rendered in index.html and then captured as screenshots. Afterward, the specific states being compared in each trial were manually highlighted and labeled. The geographic boundary data for Indian states was sourced from a publicly available GeoJSON file.
 
-The workflow for release looks as follows:
-Develop features on feature branch
-| PRs
-Dev branch
-| PR (1 per release)
-Main branch
-| Run release workflow on merge
-References are updated and commit is tagged
+Representing the Population Densities: The population density values included several extreme outliers, with some states appearing disproportionately dense or sparse. To reduce the impact of these extremes and improve visual comparability, the data was square-root transformed. Additional adjustments were made to outlier values to ensure a more balanced and interpretable range across all states.
+
+## Technical Achievements
+We sourced and integrated two separate datasets: a GeoJSON file defining the boundaries of Indian states and a dataset representing population density values. Ensuring these datasets aligned correctly required additional research and data validation, as state names, boundaries, and formatting needed to match precisely for the map to render accurately. We also processed the population density data to address extreme outliers, applying transformations and adjustments so the values could be represented meaningfully within a visual scale. This preprocessing was essential for enabling fair comparisons and reliable user interpretation during the study.
+
+## Design Achievements
+We designed and implemented a fully interactive choropleth map that visualizes population density using multiple color scales. Rather than relying on a simple chart or minimal visual encoding, we incorporated legends and distinct color schemes to support user interpretation and comparison. By experimenting with monochromatic, grayscale, and full RGB color scales, the design goes beyond basic requirements and directly supports the study’s research question.
+
