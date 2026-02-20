@@ -1,6 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.3.2/src/parser/GlobalConfigSchema.json",
   "configsList": [
+    "gbears",
     "basic-questionnaire-study",
     "tutorial",
     "tutorial-replication",
@@ -53,6 +54,9 @@
     "test-step-logic"
   ],
   "configs": {
+    "gbears": {
+      "path": "gbears/config.json"
+    },
     "tutorial": {
       "path": "tutorial/config.json"
     },

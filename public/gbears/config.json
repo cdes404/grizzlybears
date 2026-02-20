@@ -10,7 +10,7 @@
   },
   "uiConfig": {
     "contactEmail": "cmd03063@gmail.com",
-    "helpTextPath": "basic-questionnaire-study/assets/help.md",
+    "helpTextPath": "gbears/assets/help.md",
     "logoPath": "revisitAssets/revisitLogoSquare.svg",
     "withProgressBar": true,
     "autoDownloadStudy": false,
@@ -19,13 +19,13 @@
   "components": {
     "introduction": {
       "type": "markdown",
-      "path": "basic-questionnaire-study/assets/introduction.md",
+      "path": "gbears/assets/introduction.md",
       "response": []
     },
 
     "Delhi-Bihar-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-01.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-01.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -45,7 +45,7 @@
 
     "Delhi-Bihar-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-01.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-01.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -65,7 +65,7 @@
 
     "Delhi-Bihar-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-02.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-02.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -85,7 +85,7 @@
 
     "Uttarpradesh-Westbengal-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-02.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-02.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -105,7 +105,7 @@
 
     "Uttarpradesh-Westbengal-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-02.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-02.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -125,7 +125,7 @@
 
     "Uttarpradesh-Westbengal-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-02.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-02.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -145,7 +145,7 @@
 
     "Maharashtra-Gujarat-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-03.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-03.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -165,7 +165,7 @@
 
     "Maharashtra-Gujarat-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-03.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-03.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -185,7 +185,7 @@
 
     "Maharashtra-Gujarat-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-03.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-03.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -205,7 +205,7 @@
 
     "Tamilnadu-Karnataka-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-04.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-04.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -225,7 +225,7 @@
 
     "Tamilnadu-Karnataka-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-04.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-04.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -245,7 +245,7 @@
 
     "Tamilnadu-Karnataka-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-04.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-04.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -265,7 +265,7 @@
 
     "Kerala-Andhrapradesh-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-05.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-05.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -285,7 +285,7 @@
 
     "Kerala-Andhrapradesh-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-05.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-05.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -305,7 +305,7 @@
 
     "Kerala-Andhrapradesh-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-05.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-05.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -325,7 +325,7 @@
 
     "Rajasthan-Haryana-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-06.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-06.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -345,7 +345,7 @@
 
     "Rajasthan-Haryana-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-06.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-06.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -365,7 +365,7 @@
 
     "Rajasthan-Haryana-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-06.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-06.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -385,7 +385,7 @@
 
     "Assam-Odisha-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-07.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-07.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -405,7 +405,7 @@
 
     "Assam-Odisha-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-07.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-07.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -425,7 +425,7 @@
 
     "Assam-Odisha-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-07.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-07.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -445,7 +445,7 @@
 
     "Punjab-Jharkhand-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-08.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-08.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -465,7 +465,7 @@
 
     "Punjab-Jharkhand-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-08.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-08.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -485,7 +485,7 @@
 
     "Punjab-Jharkhand-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-08.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-08.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -505,7 +505,7 @@
 
     "Madhyapradesh-Chhattisgarh-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-09.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-09.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -525,7 +525,7 @@
 
     "Madhyapradesh-Chhattisgarh-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-09.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-09.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -545,7 +545,7 @@
 
     "Madhyapradesh-Chhattisgarh-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-09.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-09.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -565,7 +565,7 @@
 
     "Uttarakhand-Himachalpradesh-R": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/India-Saturation-trial-10.png",
+      "path": "gbears/assets/Maps/India-Saturation-trial-10.png",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -585,7 +585,7 @@
 
     "Uttarakhand-Himachalpradesh-G": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaGray-trial-10.PNG",
+      "path": "gbears/assets/Maps/IndiaGray-trial-10.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
@@ -605,7 +605,7 @@
 
     "Uttarakhand-Himachalpradesh-RGB": {
       "type": "image",
-      "path": "public/basic-questionnaire-study/assets/Maps/IndiaRBG-trial-10.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-10.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
