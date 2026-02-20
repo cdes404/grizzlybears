@@ -2,7 +2,6 @@
   "$schema": "https://raw.githubusercontent.com/revisit-studies/study/v2.3.2/src/parser/GlobalConfigSchema.json",
   "configsList": [
     "gbears",
-    "basic-questionnaire-study",
     "tutorial",
     "tutorial-replication",
     "demo-html",
@@ -228,9 +227,6 @@
     "example-VLAT-adaptive": {
       "path": "example-VLAT-adaptive/config.json",
       "test": true
-    },
-    "basic-questionnaire-study": {
-	    "path": "basic-questionnaire-study/config.json"
     }
   }
 }
