@@ -31,7 +31,7 @@
       "response": [
         {
           "id": "q-density-01",
-          "prompt": "How much more dense is the population in Delhi compared to Bihar?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Delhi compared to Bihar?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -51,7 +51,7 @@
       "response": [
         {
           "id": "q-density-01",
-          "prompt": "How much more dense is the population in Delhi compared to Bihar?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Delhi compared to Bihar?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -71,7 +71,7 @@
       "response": [
         {
           "id": "q-density-01",
-          "prompt": "How much more dense is the population in Delhi compared to Bihar?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Delhi compared to Bihar?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -91,7 +91,7 @@
       "response": [
         {
           "id": "q-density-02",
-          "prompt": "How much more dense is the population in Uttar Pradesh compared to West Bengal?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in West Bengal compared to Uttar Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -111,7 +111,7 @@
       "response": [
         {
           "id": "q-density-02",
-          "prompt": "How much more dense is the population in Uttar Pradesh compared to West Bengal?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in West Bengal compared to Uttar Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -131,7 +131,7 @@
       "response": [
         {
           "id": "q-density-02",
-          "prompt": "How much more dense is the population in Uttar Pradesh compared to West Bengal?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in West Bengal compared to Uttar Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -151,7 +151,7 @@
       "response": [
         {
           "id": "q-density-03",
-          "prompt": "How much more dense is the population in Maharashtra compared to Gujarat?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Maharashtra compared to Gujarat?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -171,7 +171,7 @@
       "response": [
         {
           "id": "q-density-03",
-          "prompt": "How much more dense is the population in Maharashtra compared to Gujarat?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Maharashtra compared to Gujarat?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -191,7 +191,7 @@
       "response": [
         {
           "id": "q-density-03",
-          "prompt": "How much more dense is the population in Maharashtra compared to Gujarat?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Maharashtra compared to Gujarat?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -211,7 +211,7 @@
       "response": [
         {
           "id": "q-density-04",
-          "prompt": "How much more dense is the population in Tamil Nadu compared to Karnataka?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Tamil Nadu compared to Karnataka?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -231,7 +231,7 @@
       "response": [
         {
           "id": "q-density-04",
-          "prompt": "How much more dense is the population in Tamil Nadu compared to Karnataka?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Tamil Nadu compared to Karnataka?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -251,7 +251,7 @@
       "response": [
         {
           "id": "q-density-04",
-          "prompt": "How much more dense is the population in Tamil Nadu compared to Karnataka?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Tamil Nadu compared to Karnataka?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -271,7 +271,7 @@
       "response": [
         {
           "id": "q-density-05",
-          "prompt": "How much more dense is the population in Kerala compared to Andhra Pradesh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Kerala compared to Andhra Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -291,7 +291,7 @@
       "response": [
         {
           "id": "q-density-05",
-          "prompt": "How much more dense is the population in Kerala compared to Andhra Pradesh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Kerala compared to Andhra Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -311,7 +311,7 @@
       "response": [
         {
           "id": "q-density-05",
-          "prompt": "How much more dense is the population in Kerala compared to Andhra Pradesh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Kerala compared to Andhra Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -331,7 +331,7 @@
       "response": [
         {
           "id": "q-density-06",
-          "prompt": "How much more dense is the population in Rajasthan compared to Haryana?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Haryana compared to Rajasthan?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -351,7 +351,7 @@
       "response": [
         {
           "id": "q-density-06",
-          "prompt": "How much more dense is the population in Rajasthan compared to Haryana?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Haryana compared to Rajasthan?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -371,7 +371,7 @@
       "response": [
         {
           "id": "q-density-06",
-          "prompt": "How much more dense is the population in Rajasthan compared to Haryana?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Haryana compared to Rajasthan?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -391,7 +391,7 @@
       "response": [
         {
           "id": "q-density-07",
-          "prompt": "How much more dense is the population in Assam compared to Odisha?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Assam compared to Odisha?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -411,7 +411,7 @@
       "response": [
         {
           "id": "q-density-07",
-          "prompt": "How much more dense is the population in Assam compared to Odisha?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Assam compared to Odisha?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -431,7 +431,7 @@
       "response": [
         {
           "id": "q-density-07",
-          "prompt": "How much more dense is the population in Assam compared to Odisha?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Assam compared to Odisha?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -451,7 +451,7 @@
       "response": [
         {
           "id": "q-density-08",
-          "prompt": "How much more dense is the population in Punjab compared to Jharkhand?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Punjab compared to Jharkhand?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -471,7 +471,7 @@
       "response": [
         {
           "id": "q-density-08",
-          "prompt": "How much more dense is the population in Punjab compared to Jharkhand?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Punjab compared to Jharkhand?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -491,7 +491,7 @@
       "response": [
         {
           "id": "q-density-08",
-          "prompt": "How much more dense is the population in Punjab compared to Jharkhand?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Punjab compared to Jharkhand?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -511,7 +511,7 @@
       "response": [
         {
           "id": "q-density-09",
-          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -531,7 +531,7 @@
       "response": [
         {
           "id": "q-density-09",
-          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -551,7 +551,7 @@
       "response": [
         {
           "id": "q-density-09",
-          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -571,7 +571,7 @@
       "response": [
         {
           "id": "q-density-10",
-          "prompt": "How much more dense is the population in Uttarakhand compared to Himachal Pradesh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Uttarakhand compared to Himachal Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -591,7 +591,7 @@
       "response": [
         {
           "id": "q-density-10",
-          "prompt": "How much more dense is the population in Uttarakhand compared to Himachal Pradesh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Uttarakhand compared to Himachal Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
@@ -611,7 +611,7 @@
       "response": [
         {
           "id": "q-density-10",
-          "prompt": "How much more dense is the population in Uttarakhand compared to Himachal Pradesh?\n\n(0% = no difference, 100% = twice as dense)",
+          "prompt": "How much more dense is the population in Uttarakhand compared to Himachal Pradesh?\n\n(0% = no difference, 100% = twice as dense or more)",
           "location": "sidebar",
           "type": "slider",
           "options": [
