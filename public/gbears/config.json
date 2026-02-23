@@ -65,7 +65,7 @@
 
     "Delhi-Bihar-RGB": {
       "type": "image",
-      "path": "gbears/assets/Maps/IndiaRBG-trial-02.PNG",
+      "path": "gbears/assets/Maps/IndiaRBG-trial-01.PNG",
       "style": { "width": "800px" },
       "nextButtonLocation": "sidebar",
       "response": [
