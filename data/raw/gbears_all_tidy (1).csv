@@ -1,0 +1,836 @@
+participantId,trialId,trialOrder,responseId,responsePrompt,answer
+"012b6b3b-e841-4834-8878-f6b690ed9d6c","participantTags","null","participantTags","undefined","[]"
+"0709a926-8f53-4393-a6a8-11cc54036d4b","participantTags","null","participantTags","undefined","[]"
+"19e76a68-b825-4cca-9cbc-eb361174081c","participantTags","null","participantTags","undefined","[]"
+"19e76a68-b825-4cca-9cbc-eb361174081c","introduction","0","","undefined","undefined"
+"19e76a68-b825-4cca-9cbc-eb361174081c","introduction","0","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":26,""mousedown"":2,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":130,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","11"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":49,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Uttarpradesh-Westbengal-R","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","29"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":26,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Maharashtra-Gujarat-G","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Maharashtra-Gujarat-G","4","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":35,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","29"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":49,""mousedown"":4,""mouseup"":4,""resize"":0,""scroll"":7,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","69"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":24,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":2,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","49"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":13,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":1,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Assam-Odisha-RGB","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Assam-Odisha-RGB","8","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":12,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":2,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Punjab-Jharkhand-R","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","8"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":21,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":1,""visibility"":0}"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","79"
+"19e76a68-b825-4cca-9cbc-eb361174081c","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":36,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":7,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","participantTags","null","participantTags","undefined","[]"
+"1ba10df2-f561-402a-8431-4341d40c80ad","introduction","0","","undefined","undefined"
+"1ba10df2-f561-402a-8431-4341d40c80ad","introduction","0","windowEvents","undefined","{""focus"":4,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":75,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":8}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","33"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":77,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","15"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":97,""mousedown"":8,""mouseup"":8,""resize"":0,""scroll"":0,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Uttarpradesh-Westbengal-R","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","10"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":35,""mousedown"":4,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Maharashtra-Gujarat-R","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","5"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Maharashtra-Gujarat-R","4","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":17,""mousedown"":2,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Tamilnadu-Karnataka-G","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Tamilnadu-Karnataka-G","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":39,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":10,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Kerala-Andhrapradesh-RGB","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Kerala-Andhrapradesh-RGB","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":40,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":60,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":21,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":1,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Assam-Odisha-R","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","67"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Assam-Odisha-R","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":69,""mousedown"":11,""mouseup"":10,""resize"":0,""scroll"":0,""visibility"":2}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Punjab-Jharkhand-R","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":24,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Madhyapradesh-Chhattisgarh-G","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"1ba10df2-f561-402a-8431-4341d40c80ad","Madhyapradesh-Chhattisgarh-G","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":19,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","participantTags","null","participantTags","undefined","[]"
+"2cb64598-4a07-44d6-96fc-c16366066e40","introduction","0","","undefined","undefined"
+"2cb64598-4a07-44d6-96fc-c16366066e40","introduction","0","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":69,""mousedown"":2,""mouseup"":1,""resize"":1,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Delhi-Bihar-G","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Delhi-Bihar-G","1","windowEvents","undefined","{""focus"":6,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":179,""mousedown"":9,""mouseup"":9,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Uttarakhand-Himachalpradesh-R","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","45"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Uttarakhand-Himachalpradesh-R","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":82,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Uttarpradesh-Westbengal-RGB","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","25"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Uttarpradesh-Westbengal-RGB","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":32,""mousedown"":4,""mouseup"":4,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Maharashtra-Gujarat-R","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Maharashtra-Gujarat-R","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":41,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Tamilnadu-Karnataka-R","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":25,""mousedown"":3,""mouseup"":4,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Kerala-Andhrapradesh-RGB","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","25"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Kerala-Andhrapradesh-RGB","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":34,""mousedown"":6,""mouseup"":6,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Rajasthan-Haryana-RGB","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","16"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Rajasthan-Haryana-RGB","7","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":32,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Assam-Odisha-G","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","15"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":21,""mousedown"":4,""mouseup"":4,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Punjab-Jharkhand-R","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":15,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Madhyapradesh-Chhattisgarh-RGB","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","46"
+"2cb64598-4a07-44d6-96fc-c16366066e40","Madhyapradesh-Chhattisgarh-RGB","10","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":54,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","participantTags","null","participantTags","undefined","[]"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","introduction","0","","undefined","undefined"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","introduction","0","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":1,""mousemove"":7,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","52"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":12,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","63"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":11,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Uttarpradesh-Westbengal-G","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","76"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Uttarpradesh-Westbengal-G","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":8,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Maharashtra-Gujarat-RGB","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","61"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":13,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Tamilnadu-Karnataka-R","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","69"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":13,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","53"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":8,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","55"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":11,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Assam-Odisha-G","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":9,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","74"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":4,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","75"
+"312bb1f9-78b9-4fc7-b0c7-48f255951cc7","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":12,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","participantTags","null","participantTags","undefined","[]"
+"33732f42-3bba-41a2-905b-bcf73165e241","introduction","0","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","introduction","0","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":3,""scroll"":24,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Delhi-Bihar-R","1","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Delhi-Bihar-R","1","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Uttarakhand-Himachalpradesh-R","2","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Uttarakhand-Himachalpradesh-R","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Uttarpradesh-Westbengal-R","3","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Maharashtra-Gujarat-RGB","4","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Tamilnadu-Karnataka-R","5","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Kerala-Andhrapradesh-G","6","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Rajasthan-Haryana-R","7","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Assam-Odisha-R","8","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Assam-Odisha-R","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Punjab-Jharkhand-R","9","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"33732f42-3bba-41a2-905b-bcf73165e241","Madhyapradesh-Chhattisgarh-RGB","10","","undefined","undefined"
+"33732f42-3bba-41a2-905b-bcf73165e241","Madhyapradesh-Chhattisgarh-RGB","10","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","participantTags","null","participantTags","undefined","[]"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","introduction","0","","undefined","undefined"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","introduction","0","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":14,""mousedown"":1,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","42"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":95,""mousedown"":3,""mouseup"":4,""resize"":0,""scroll"":0,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Uttarakhand-Himachalpradesh-R","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","5"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Uttarakhand-Himachalpradesh-R","2","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":92,""mousedown"":5,""mouseup"":4,""resize"":0,""scroll"":0,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Uttarpradesh-Westbengal-G","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Uttarpradesh-Westbengal-G","3","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":1,""keyup"":1,""mousemove"":76,""mousedown"":2,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Maharashtra-Gujarat-G","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Maharashtra-Gujarat-G","4","windowEvents","undefined","{""focus"":4,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":69,""mousedown"":4,""mouseup"":3,""resize"":0,""scroll"":4,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","10"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":5,""input"":0,""keydown"":1,""keyup"":1,""mousemove"":79,""mousedown"":4,""mouseup"":3,""resize"":0,""scroll"":13,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Kerala-Andhrapradesh-RGB","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","52"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Kerala-Andhrapradesh-RGB","6","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":23,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":29,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Rajasthan-Haryana-G","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Rajasthan-Haryana-G","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":72,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":1,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Assam-Odisha-RGB","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","21"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Assam-Odisha-RGB","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":26,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":11,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"367512ca-e73c-4402-be78-99ebf69cdcf2","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":29,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"3f5eb797-6501-4b0b-97d3-783bfdab0cdd","participantTags","null","participantTags","undefined","[]"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","participantTags","null","participantTags","undefined","[]"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","introduction","0","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","introduction","0","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":28,""mousedown"":2,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Delhi-Bihar-RGB","1","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Uttarakhand-Himachalpradesh-G","2","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Uttarpradesh-Westbengal-RGB","3","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Uttarpradesh-Westbengal-RGB","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Maharashtra-Gujarat-R","4","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Maharashtra-Gujarat-R","4","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Tamilnadu-Karnataka-R","5","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Kerala-Andhrapradesh-R","6","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Kerala-Andhrapradesh-R","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Rajasthan-Haryana-G","7","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Rajasthan-Haryana-G","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Assam-Odisha-G","8","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Punjab-Jharkhand-R","9","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Madhyapradesh-Chhattisgarh-G","10","","undefined","undefined"
+"6f02a102-d58d-4b3a-a623-d548d0831d93","Madhyapradesh-Chhattisgarh-G","10","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","participantTags","null","participantTags","undefined","[]"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","introduction","0","","undefined","undefined"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","introduction","0","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":44,""mousedown"":2,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","27"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":152,""mousedown"":7,""mouseup"":8,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Uttarakhand-Himachalpradesh-RGB","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Uttarakhand-Himachalpradesh-RGB","2","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":72,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Uttarpradesh-Westbengal-G","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","21"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Uttarpradesh-Westbengal-G","3","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":69,""mousedown"":2,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Maharashtra-Gujarat-R","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","11"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Maharashtra-Gujarat-R","4","windowEvents","undefined","{""focus"":5,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":87,""mousedown"":5,""mouseup"":4,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","65"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":44,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Kerala-Andhrapradesh-R","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","74"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Kerala-Andhrapradesh-R","6","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":23,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Rajasthan-Haryana-G","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","88"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Rajasthan-Haryana-G","7","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":35,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Assam-Odisha-R","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","45"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Assam-Odisha-R","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":21,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","20"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":22,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"74e5f5d3-1142-4d37-a14a-ef6562bd5647","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":26,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","participantTags","null","participantTags","undefined","[]"
+"80c93295-dff4-4718-8453-4f91fabeb477","introduction","0","","undefined","undefined"
+"80c93295-dff4-4718-8453-4f91fabeb477","introduction","0","windowEvents","undefined","{""focus"":4,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":50,""mousedown"":2,""mouseup"":1,""resize"":0,""scroll"":7,""visibility"":3}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Delhi-Bihar-G","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","21"
+"80c93295-dff4-4718-8453-4f91fabeb477","Delhi-Bihar-G","1","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":145,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":8,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","75"
+"80c93295-dff4-4718-8453-4f91fabeb477","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":95,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Uttarpradesh-Westbengal-RGB","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","30"
+"80c93295-dff4-4718-8453-4f91fabeb477","Uttarpradesh-Westbengal-RGB","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":28,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":3,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Maharashtra-Gujarat-G","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","4"
+"80c93295-dff4-4718-8453-4f91fabeb477","Maharashtra-Gujarat-G","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":79,""mousedown"":5,""mouseup"":5,""resize"":0,""scroll"":11,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Tamilnadu-Karnataka-R","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","48"
+"80c93295-dff4-4718-8453-4f91fabeb477","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":44,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":80,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Kerala-Andhrapradesh-R","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"80c93295-dff4-4718-8453-4f91fabeb477","Kerala-Andhrapradesh-R","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":25,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":34,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"80c93295-dff4-4718-8453-4f91fabeb477","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":34,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":6,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Assam-Odisha-RGB","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","10"
+"80c93295-dff4-4718-8453-4f91fabeb477","Assam-Odisha-RGB","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":50,""mousedown"":4,""mouseup"":4,""resize"":0,""scroll"":9,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","6"
+"80c93295-dff4-4718-8453-4f91fabeb477","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":47,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"80c93295-dff4-4718-8453-4f91fabeb477","Madhyapradesh-Chhattisgarh-G","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"80c93295-dff4-4718-8453-4f91fabeb477","Madhyapradesh-Chhattisgarh-G","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":23,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"821e9b4e-fa20-4a75-b9ea-e190dda79bcd","participantTags","null","participantTags","undefined","[]"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","participantTags","null","participantTags","undefined","[]"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","introduction","0","","undefined","undefined"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","introduction","0","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":3,""scroll"":24,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Delhi-Bihar-G","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","33"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Delhi-Bihar-G","1","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":6,""scroll"":33,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Uttarakhand-Himachalpradesh-RGB","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","7"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Uttarakhand-Himachalpradesh-RGB","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":14,""scroll"":77,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Uttarpradesh-Westbengal-R","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","3"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":2,""mousedown"":1,""mouseup"":1,""resize"":5,""scroll"":38,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Maharashtra-Gujarat-G","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","2"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Maharashtra-Gujarat-G","4","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":5,""scroll"":12,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Tamilnadu-Karnataka-R","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","24"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":8,""scroll"":82,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":10,""scroll"":99,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Rajasthan-Haryana-RGB","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","46"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Rajasthan-Haryana-RGB","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":2,""scroll"":36,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Assam-Odisha-RGB","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","44"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Assam-Odisha-RGB","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":10,""scroll"":56,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","12"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":33,""visibility"":0}"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Madhyapradesh-Chhattisgarh-RGB","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","87"
+"8f07199b-6bb7-4fd1-b2ef-cccc8a43b38c","Madhyapradesh-Chhattisgarh-RGB","10","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":8,""scroll"":52,""visibility"":0}"
+"90c380c5-8599-463f-b311-fa5c01a837d1","participantTags","null","participantTags","undefined","[]"
+"91595fab-43e8-4e9b-90fc-6262d7f9214d","participantTags","null","participantTags","undefined","[]"
+"93852c9a-e356-4a81-bfa5-c0359e1485ca","participantTags","null","participantTags","undefined","[]"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","participantTags","null","participantTags","undefined","[]"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","introduction","0","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","introduction","0","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":1,""scroll"":9,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Delhi-Bihar-RGB","1","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Uttarakhand-Himachalpradesh-G","2","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Uttarpradesh-Westbengal-R","3","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Maharashtra-Gujarat-R","4","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Maharashtra-Gujarat-R","4","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Tamilnadu-Karnataka-RGB","5","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Kerala-Andhrapradesh-G","6","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Rajasthan-Haryana-RGB","7","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Rajasthan-Haryana-RGB","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Assam-Odisha-G","8","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Punjab-Jharkhand-RGB","9","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Punjab-Jharkhand-RGB","9","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Madhyapradesh-Chhattisgarh-R","10","","undefined","undefined"
+"96cba8e3-55e3-47b3-b631-1d6d8015b627","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"9d57de13-4e68-4e92-b746-c8db2c8aac01","participantTags","null","participantTags","undefined","[]"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","participantTags","null","participantTags","undefined","[]"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","introduction","0","","undefined","undefined"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","introduction","0","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","51"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":7,""scroll"":16,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Uttarakhand-Himachalpradesh-R","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","15"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Uttarakhand-Himachalpradesh-R","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":1,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Uttarpradesh-Westbengal-R","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","14"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Maharashtra-Gujarat-RGB","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","5"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Tamilnadu-Karnataka-R","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","21"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":8,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","73"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":8,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Rajasthan-Haryana-G","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","64"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Rajasthan-Haryana-G","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":1,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Assam-Odisha-RGB","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","46"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Assam-Odisha-RGB","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":2,""scroll"":20,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Punjab-Jharkhand-RGB","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","2"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Punjab-Jharkhand-RGB","9","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":1,""visibility"":0}"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","85"
+"9d9610ad-62c8-4545-a2c5-36d26e5076cd","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":2,""mousedown"":2,""mouseup"":2,""resize"":8,""scroll"":11,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","participantTags","null","participantTags","undefined","[]"
+"a210482b-c7cc-4298-8620-ce15956387a9","introduction","0","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","introduction","0","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":11,""mousedown"":1,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":1}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","78"
+"a210482b-c7cc-4298-8620-ce15956387a9","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":15,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":151,""mousedown"":6,""mouseup"":6,""resize"":0,""scroll"":0,""visibility"":25}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Uttarakhand-Himachalpradesh-RGB","2","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Uttarakhand-Himachalpradesh-RGB","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Uttarpradesh-Westbengal-R","3","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Maharashtra-Gujarat-RGB","4","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Tamilnadu-Karnataka-R","5","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Kerala-Andhrapradesh-G","6","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Rajasthan-Haryana-RGB","7","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Rajasthan-Haryana-RGB","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Assam-Odisha-RGB","8","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Assam-Odisha-RGB","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Punjab-Jharkhand-G","9","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a210482b-c7cc-4298-8620-ce15956387a9","Madhyapradesh-Chhattisgarh-R","10","","undefined","undefined"
+"a210482b-c7cc-4298-8620-ce15956387a9","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","participantTags","null","participantTags","undefined","[]"
+"a596a30d-2d35-48e4-8805-e00009b331a1","introduction","0","","undefined","undefined"
+"a596a30d-2d35-48e4-8805-e00009b331a1","introduction","0","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":8,""scroll"":147,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Delhi-Bihar-G","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Delhi-Bihar-G","1","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":1,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","31"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Uttarpradesh-Westbengal-G","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","70"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Uttarpradesh-Westbengal-G","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Maharashtra-Gujarat-R","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","5"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Maharashtra-Gujarat-R","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":2,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":116,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","68"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":3,""scroll"":70,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Kerala-Andhrapradesh-RGB","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","69"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Kerala-Andhrapradesh-RGB","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":3,""scroll"":20,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","89"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":3,""scroll"":43,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Assam-Odisha-R","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","13"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Assam-Odisha-R","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":3,""scroll"":42,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","12"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":30,""visibility"":0}"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Madhyapradesh-Chhattisgarh-G","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"a596a30d-2d35-48e4-8805-e00009b331a1","Madhyapradesh-Chhattisgarh-G","10","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":7,""scroll"":29,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","participantTags","null","participantTags","undefined","[]"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","introduction","0","","undefined","undefined"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","introduction","0","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":23,""mousedown"":2,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Delhi-Bihar-R","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","49"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Delhi-Bihar-R","1","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":2,""keyup"":2,""mousemove"":175,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","20"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":61,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Uttarpradesh-Westbengal-RGB","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","2"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Uttarpradesh-Westbengal-RGB","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":175,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Maharashtra-Gujarat-G","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Maharashtra-Gujarat-G","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":28,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Tamilnadu-Karnataka-R","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Tamilnadu-Karnataka-R","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":44,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":2,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","69"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":27,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":1,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Rajasthan-Haryana-RGB","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","48"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Rajasthan-Haryana-RGB","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":46,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":1,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Assam-Odisha-R","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","21"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Assam-Odisha-R","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":27,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Punjab-Jharkhand-RGB","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","1"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Punjab-Jharkhand-RGB","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":31,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"afc9645d-d9cd-4c8a-bf37-de23f5e1a557","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":53,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","participantTags","null","participantTags","undefined","[]"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","introduction","0","","undefined","undefined"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","introduction","0","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":0,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","35"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":2,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Uttarpradesh-Westbengal-RGB","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","14"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Uttarpradesh-Westbengal-RGB","3","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Maharashtra-Gujarat-RGB","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","1"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":2,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","38"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":1,""scroll"":7,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Kerala-Andhrapradesh-RGB","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","52"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Kerala-Andhrapradesh-RGB","6","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":1,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Rajasthan-Haryana-G","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","44"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Rajasthan-Haryana-G","7","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Assam-Odisha-R","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Assam-Odisha-R","8","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","14"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","46"
+"b0a8e88e-577c-447c-92c7-458720ff2eab","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":1,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","participantTags","null","participantTags","undefined","[]"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","introduction","0","","undefined","undefined"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","introduction","0","windowEvents","undefined","{""focus"":0,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":4,""mousedown"":0,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Delhi-Bihar-R","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","27"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Delhi-Bihar-R","1","windowEvents","undefined","{""focus"":4,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":133,""mousedown"":7,""mouseup"":5,""resize"":0,""scroll"":15,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Uttarakhand-Himachalpradesh-R","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","14"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Uttarakhand-Himachalpradesh-R","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":60,""mousedown"":5,""mouseup"":5,""resize"":0,""scroll"":0,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Uttarpradesh-Westbengal-G","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","10"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Uttarpradesh-Westbengal-G","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":51,""mousedown"":5,""mouseup"":5,""resize"":0,""scroll"":0,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Maharashtra-Gujarat-RGB","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":45,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":10,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","34"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":39,""mousedown"":6,""mouseup"":5,""resize"":0,""scroll"":70,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","65"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":18,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":19,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Rajasthan-Haryana-G","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","80"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Rajasthan-Haryana-G","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":72,""mousedown"":5,""mouseup"":5,""resize"":0,""scroll"":9,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Assam-Odisha-G","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","23"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":35,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":1,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Punjab-Jharkhand-RGB","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","13"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Punjab-Jharkhand-RGB","9","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":105,""mousedown"":2,""mouseup"":3,""resize"":0,""scroll"":10,""visibility"":0}"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Madhyapradesh-Chhattisgarh-G","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"b116387c-5ed6-4848-b0c2-b2885b5fdce0","Madhyapradesh-Chhattisgarh-G","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":27,""mousedown"":5,""mouseup"":5,""resize"":0,""scroll"":1,""visibility"":0}"
+"b6b663d3-c0bf-42f0-8077-7d3584e483df","participantTags","null","participantTags","undefined","[]"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","participantTags","null","participantTags","undefined","[]"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","introduction","0","","undefined","undefined"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","introduction","0","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":13,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","30"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":61,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":44,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Uttarpradesh-Westbengal-R","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","25"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":104,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Maharashtra-Gujarat-RGB","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","10"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":66,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Tamilnadu-Karnataka-G","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Tamilnadu-Karnataka-G","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":25,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Kerala-Andhrapradesh-R","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Kerala-Andhrapradesh-R","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":22,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":2,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Rajasthan-Haryana-RGB","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","67"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Rajasthan-Haryana-RGB","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":64,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Assam-Odisha-G","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":23,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Punjab-Jharkhand-G","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","25"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Punjab-Jharkhand-G","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":51,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Madhyapradesh-Chhattisgarh-RGB","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"b9ba3c4f-e3a5-419a-9d47-6b54a085ba2d","Madhyapradesh-Chhattisgarh-RGB","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":87,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","participantTags","null","participantTags","undefined","[]"
+"d01e84de-612e-44e1-826b-3408163a8de1","introduction","0","","undefined","undefined"
+"d01e84de-612e-44e1-826b-3408163a8de1","introduction","0","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":32,""mousedown"":1,""mouseup"":0,""resize"":0,""scroll"":0,""visibility"":1}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Delhi-Bihar-R","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","80"
+"d01e84de-612e-44e1-826b-3408163a8de1","Delhi-Bihar-R","1","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":59,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"d01e84de-612e-44e1-826b-3408163a8de1","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":33,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Uttarpradesh-Westbengal-RGB","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"d01e84de-612e-44e1-826b-3408163a8de1","Uttarpradesh-Westbengal-RGB","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":21,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Maharashtra-Gujarat-R","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","20"
+"d01e84de-612e-44e1-826b-3408163a8de1","Maharashtra-Gujarat-R","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":28,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"d01e84de-612e-44e1-826b-3408163a8de1","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":33,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"d01e84de-612e-44e1-826b-3408163a8de1","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":62,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"d01e84de-612e-44e1-826b-3408163a8de1","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":52,""mousedown"":2,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Assam-Odisha-G","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"d01e84de-612e-44e1-826b-3408163a8de1","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":69,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Punjab-Jharkhand-R","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","80"
+"d01e84de-612e-44e1-826b-3408163a8de1","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":61,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d01e84de-612e-44e1-826b-3408163a8de1","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","90"
+"d01e84de-612e-44e1-826b-3408163a8de1","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":61,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","participantTags","null","participantTags","undefined","[]"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","introduction","0","","undefined","undefined"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","introduction","0","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":20,""mousedown"":1,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Delhi-Bihar-RGB","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","50"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Delhi-Bihar-RGB","1","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":22,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Uttarakhand-Himachalpradesh-G","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","21"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Uttarakhand-Himachalpradesh-G","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":19,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Uttarpradesh-Westbengal-G","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","31"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Uttarpradesh-Westbengal-G","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":23,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Maharashtra-Gujarat-G","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","48"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Maharashtra-Gujarat-G","4","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":12,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","22"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":20,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":2}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","35"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":12,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","74"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":14,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Assam-Odisha-RGB","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","38"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Assam-Odisha-RGB","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":19,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Punjab-Jharkhand-R","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":40,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Madhyapradesh-Chhattisgarh-R","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"d6467d7e-6db6-4e04-af5c-4154c27dbb46","Madhyapradesh-Chhattisgarh-R","10","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":22,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"e5ca44f6-ace1-46b6-813a-8579e14a597b","participantTags","null","participantTags","undefined","[]"
+"ed421e0b-395f-47ad-9495-482c82896f97","participantTags","null","participantTags","undefined","[]"
+"ed421e0b-395f-47ad-9495-482c82896f97","introduction","0","","undefined","undefined"
+"ed421e0b-395f-47ad-9495-482c82896f97","introduction","0","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":59,""mousedown"":2,""mouseup"":1,""resize"":0,""scroll"":0,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Delhi-Bihar-G","1","q-density-01","How much more dense is the population in Delhi compared to Bihar?
+
+(0% = no difference, 100% = twice as dense or more)","25"
+"ed421e0b-395f-47ad-9495-482c82896f97","Delhi-Bihar-G","1","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":123,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":0,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Uttarakhand-Himachalpradesh-R","2","q-density-10","How much more dense is the population in Uttarakhand compared to Himachal Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","12"
+"ed421e0b-395f-47ad-9495-482c82896f97","Uttarakhand-Himachalpradesh-R","2","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":146,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Uttarpradesh-Westbengal-R","3","q-density-02","How much more dense is the population in West Bengal compared to Uttar Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","9"
+"ed421e0b-395f-47ad-9495-482c82896f97","Uttarpradesh-Westbengal-R","3","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":63,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":2,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Maharashtra-Gujarat-RGB","4","q-density-03","How much more dense is the population in Maharashtra compared to Gujarat?
+
+(0% = no difference, 100% = twice as dense or more)","0"
+"ed421e0b-395f-47ad-9495-482c82896f97","Maharashtra-Gujarat-RGB","4","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":31,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":3,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Tamilnadu-Karnataka-RGB","5","q-density-04","How much more dense is the population in Tamil Nadu compared to Karnataka?
+
+(0% = no difference, 100% = twice as dense or more)","39"
+"ed421e0b-395f-47ad-9495-482c82896f97","Tamilnadu-Karnataka-RGB","5","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":83,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":4,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Kerala-Andhrapradesh-G","6","q-density-05","How much more dense is the population in Kerala compared to Andhra Pradesh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"ed421e0b-395f-47ad-9495-482c82896f97","Kerala-Andhrapradesh-G","6","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":73,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":7,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Rajasthan-Haryana-R","7","q-density-06","How much more dense is the population in Haryana compared to Rajasthan?
+
+(0% = no difference, 100% = twice as dense or more)","71"
+"ed421e0b-395f-47ad-9495-482c82896f97","Rajasthan-Haryana-R","7","windowEvents","undefined","{""focus"":1,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":84,""mousedown"":1,""mouseup"":2,""resize"":0,""scroll"":1,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Assam-Odisha-G","8","q-density-07","How much more dense is the population in Assam compared to Odisha?
+
+(0% = no difference, 100% = twice as dense or more)","11"
+"ed421e0b-395f-47ad-9495-482c82896f97","Assam-Odisha-G","8","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":57,""mousedown"":3,""mouseup"":3,""resize"":0,""scroll"":7,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Punjab-Jharkhand-R","9","q-density-08","How much more dense is the population in Punjab compared to Jharkhand?
+
+(0% = no difference, 100% = twice as dense or more)","4"
+"ed421e0b-395f-47ad-9495-482c82896f97","Punjab-Jharkhand-R","9","windowEvents","undefined","{""focus"":2,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":29,""mousedown"":2,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
+"ed421e0b-395f-47ad-9495-482c82896f97","Madhyapradesh-Chhattisgarh-G","10","q-density-09","How much more dense is the population in Madhya Pradesh compared to Chhattisgarh?
+
+(0% = no difference, 100% = twice as dense or more)","100"
+"ed421e0b-395f-47ad-9495-482c82896f97","Madhyapradesh-Chhattisgarh-G","10","windowEvents","undefined","{""focus"":3,""input"":0,""keydown"":0,""keyup"":0,""mousemove"":27,""mousedown"":3,""mouseup"":2,""resize"":0,""scroll"":0,""visibility"":0}"
